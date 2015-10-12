@@ -1,0 +1,6 @@
+# ignore everything except .gitignore and folders that I care about:
+!data*
+!.gitignore
+
+# Ignore files
+.DS_Store

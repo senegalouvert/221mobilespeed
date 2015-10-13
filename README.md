@@ -2,7 +2,7 @@
 
 Here we share data about mobile network speed in Senegal. collect by contributors around the Country.
 
-## Mobile operators
+## Mobile phone service operators
 
 * *Orange*
 * *Tigo*

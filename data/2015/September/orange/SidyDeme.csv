@@ -1,0 +1,3 @@
+Date,ConnType,Lat,Lon,Debit descendant,Debit montant,Latence,Nom de serveur,InternalIp,ExternalIp
+"2015-09-13 13:39","Hsdpa","13.97832","-14.80964",0.56,0.59,358,"Bissau","10.192.207.2","41.82.3.2"
+"2015-09-13 11:07","Hsdpa","13.97832","-14.80964",0.52,1.76,96,"Dakar","10.192.207.2","41.82.3.2"

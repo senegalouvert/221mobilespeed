@@ -1,0 +1,3 @@
+Date,ConnType,Lat,Lon,Debit descendant,Debit montant,Latence,Nom de serveur,InternalIp,ExternalIp
+"2015-10-08 18:41","Hsdpa","13.97832","-14.80964",0.58,0.99,165,"NOUAKCHOTT","10.192.207.2","41.82.3.2"
+"2015-10-08 18:37","Hsdpa","13.97832","-14.80964",0.46,0.77,169,"NOUAKCHOTT","10.192.207.2","41.82.3.2"

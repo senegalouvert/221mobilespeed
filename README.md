@@ -22,6 +22,7 @@ To test mobile network speed, we use free [Ookla Speedtest](https://github.com/s
 * *Dakar*
 	* **Mamadou Diagne**
 	* **Mamour Diack**
+	* **Soumpa Claude Ndecky**
 * *KAOLACK*
 	* **Abdou Gaye Sarr**
 * *KAFFRINE*

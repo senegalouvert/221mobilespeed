@@ -2,14 +2,14 @@
 
 Here we share data about mobile network speed in Senegal. collect by contributors around the Country.
 
-## Mobile operators
+## Mobile phone service operators
 
 * *Orange*
 * *Tigo*
 * *Expresso*
 
 ## Testting Software
-To test mobile network speed, we use free [Ookla Speedtest](https://github.com/senegalouvert/221mobilespeed/blob/master/LICENSE)http://www.speedtest.net/mobile/) app for iOS, Amazon, Android or Windows Phone.
+To test mobile network speed, we use free [Ookla Speedtest](http://www.speedtest.net/mobile/) app for **iOS, Amazon, Android or Windows Phone**.
 
 ## Contributors
 
